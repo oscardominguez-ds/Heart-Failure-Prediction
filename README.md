@@ -15,9 +15,13 @@ Heart failure is a common event caused by Cardio Vascular Diease. Cardio Vascula
   -You can use the 2 plots from Project 2, part 3 for this!
   -They should include visualizations AND written interpretations
   
-# The metrics for your best model
+# Best Model - KNN   
+## Displaying all scores but our focus is on the Testing Accuracy score.
+<img width="305" alt="Screenshot 2023-04-07 at 2 58 57 AM" src="https://user-images.githubusercontent.com/123289046/230563433-bed14548-7abf-4c8f-a359-a2fc9f020ebc.png">
 
-# A description of how well your model would solve your business problem
+
+# A description of model solving busines problem
+The KNN model score tells us that the features used in the model together account for 89 % of the variance in the target.
 
 # A summary with at least 2 recommendations for your stakeholders, based on your model performance AND analytical findings.
 
