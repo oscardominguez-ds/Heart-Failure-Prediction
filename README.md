@@ -28,6 +28,8 @@ Heart failure is a the most common event caused by Cardio Vascular Disease. Card
 # Best Model - Random Forest Classifier model
 ## Displaying all scores but our focus is on the Testing Accuracy score.
 
+<img width="173" alt="Screenshot 2023-04-14 at 2 41 53 AM" src="https://user-images.githubusercontent.com/123289046/231967368-1533724c-94fa-44e7-8c20-0263379d4c3d.png">
+
 ## A description of model solving busines problem -
 ## The Random Forest Classifier model score tells us that the features used in the model together account for 89.5% of the variance in the target.
 
