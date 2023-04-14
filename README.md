@@ -21,20 +21,20 @@ Heart failure is a the most common event caused by Cardio Vascular Disease. Card
   
 <img width="565" alt="Screenshot 2023-04-14 at 12 23 21 AM" src="https://user-images.githubusercontent.com/123289046/231942992-d571afd0-44f4-4191-9401-118774321f58.png">
 
-  ## Comparing max heart rate and Age. Those at risk for Heart Disease tend to have a lower max heart rate
+  ## Comparing 'MaxHR' and 'Age'. Those at risk for heart disease tend to have a lower max heart rate
 
 <img width="571" alt="Screenshot 2023-04-14 at 12 23 12 AM" src="https://user-images.githubusercontent.com/123289046/231942996-2b353492-6e1b-4489-b266-bf88bf4e427c.png">
   
 # Best Model - Random Forest Classifier model
 ## Displaying all scores but our focus is on the Testing Accuracy score.
 
-
+<img width="204" alt="Screenshot 2023-04-14 at 1 26 24 AM" src="https://user-images.githubusercontent.com/123289046/231951487-4e44652a-1c38-4ac7-b2ca-c90d14ccb2c2.png">
 
 ## A description of model solving busines problem -
-## The KNN model score tells us that the features used in the model together account for 89 % of the variance in the target.
+## The Random Forest Classifier model score tells us that the features used in the model together account for 90% of the variance in the target.
 
 ## Recommendations -  
-### Patients - Our insights show that people who have a higher OldPeak are at risk of having heart disease and a management plan should be put in place to treat.
+### Patients - Our insights show that people who have a higher OldPeak are at risk of having heart disease and a management plan should be put in place to treat. Also, patients with a lower maxximum heart, not taking into account for the age, all have a higher risk of getting heart disease.
 
-### Model Performance: I suggest that the model that should be used for this data is the KNN Model. 
+### Model Performance: I suggest that the model that should be used for this data is the Random Forest Classifier model 
 
