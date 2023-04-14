@@ -34,7 +34,7 @@ Heart failure is a the most common event caused by Cardio Vascular Disease. Card
 ## The Random Forest Classifier model score tells us that the features used in the model together account for 90% of the variance in the target.
 
 ## Recommendations -  
-### Patients - Our insights show that people who have a higher OldPeak are at risk of having heart disease and a management plan should be put in place to treat. Also, patients with a lower maxximum heart, not taking into account for the age, all have a higher risk of getting heart disease.
+### Patients - Our insights show that people who have a higher OldPeak are at risk of having heart disease and a management plan should be put in place to treat. Also, patients with a lower maximum heart, not taking into account for the age, all have a higher risk of getting heart disease.
 
 ### Model Performance: I suggest that the model that should be used for this data is the Random Forest Classifier model 
 
